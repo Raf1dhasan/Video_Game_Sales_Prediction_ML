@@ -80,6 +80,34 @@ XGBoost emerged as the best-performing model, providing strong predictive accura
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Raf1dhasan/Video_Game_Sales_Prediction_ML.git
+1. Open `ML_Project.ipynb` in Jupyter Notebook or Google Colab  
+2. Install required libraries if needed  
+3. Run the notebook cells from top to bottom  
+
+---
+
+## 📄 Project Report
+
+A detailed written report explaining the methodology, experiments, and results is included:
+
+- `proj.pdf`
+
+---
+
+## 🔮 Future Improvements
+
+- Hyperparameter tuning for improved accuracy  
+- Feature engineering using additional market data  
+- Regression-based sales prediction  
+- Deployment as an interactive web application  
+- Integration with real-time gaming industry data  
+
+---
+
+## 📬 Contact
+
+If you’d like to discuss this project or explore opportunities, feel free to reach out:
+
+- **Email:** rafidhasan202@gmail.com  
+- **GitHub:** https://github.com/Raf1dhasan
+
